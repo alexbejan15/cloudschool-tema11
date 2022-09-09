@@ -1,0 +1,50 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    background-color: brown;
+    font-size: 75px;
+    padding: 10px;
+    border-radius: 1rem;
+    margin: 10px;
+}
+
+.navigation {
+    background-color: greenyellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 1rem;
+    margin: 10px;
+}
+
+.main {
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 1rem;
+    margin: 10px;
+
+}
+
+.card {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+
+.footer {
+    padding: 10px;
+    border-radius: 1rem;
+    margin: 10px;
+}
+
+#imdb {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.btn {
+    color: white;
+    cursor: pointer;
+}
